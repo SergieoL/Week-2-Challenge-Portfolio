@@ -11,3 +11,5 @@ The body of my portfolio includes an about me section, my work, and contact info
 In my 'Work' section, each placeholder image links to my github when clicked. This will eventually be replaced by my deployed projects when finished.
 
 My portfolio has been adapted to be viewed on different screen sizes and the layout reflects that.
+
+https://sergieol.github.io/Week-2-Challenge-Portfolio/
